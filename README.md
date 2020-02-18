@@ -1,2 +1,2 @@
-# StupidClickerGame
-A stupid mouse click game using Allegro
+# SillyClickerGame
+A silly mouse click game using Allegro
